@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2026/09/11 00:49:17.000.867,=C:\Users\silva\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/09/11 00:51:28.000.282,=C:\Users\silva\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/09/11 01:16:17.000.947,=C:\Users\silva\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/09/12 01:27:54.000.669,=C:\Users\silva\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/10/03 00:06:29.000.821,=C:\Users\silva\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/10/03 00:09:57.000.896,=C:\Users\silva\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/10/03 00:11:22.000.928,=C:\Users\silva\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/10/15 20:11:08.000.996,=C:\Users\silva\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/10/23 21:12:47.000.236,=C:\Users\silva\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/10/23 21:15:12.000.136,C:\Users\silva\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\ERP-Delphi\Principal\unPrincipal.dfm</Transaction>
+    <Transaction>2026/10/23 21:15:12.000.136,C:\Users\silva\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\ERP-Delphi\Principal\unPrincipal.pas</Transaction>
+    <Transaction>2026/10/23 21:15:53.000.326,C:\Users\silva\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\ERP-Delphi\ERPDelphi.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
